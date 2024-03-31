@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('ris')
     .setDetails(`Valorant [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://i.pinimg.com/564x/d1/92/f4/d192f4e8c7c281ae9a7bd850b5f99164.jpg') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1201127101311492118/1202948372835864586/4d5d5fd9503beeabdc30310eb269d065.png?ex=661923f9&is=6606aef9&hm=2cb8d01a4d124b814af7f9e49755746d9857a3577b3502e9c53a1a9370984b0d&=&format=webp&quality=lossless&width=422&height=409') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('prems, game creds & nitro boosts') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1224039487361908907.gif?size=80&quality=lossless') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1191505419764510801.gif?size=80&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('legit shop') //Text when you hover the Small image
     .addButton('Shop ‹𝟥', ' https://discord.gg/JTnVN2NJhq')
     .addButton('Vouches ‹𝟥', 'https://discord.gg/Yjg2KpWryS');
