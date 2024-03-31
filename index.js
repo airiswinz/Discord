@@ -32,7 +32,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://i.pinimg.com/564x/d1/92/f4/d192f4e8c7c281ae9a7bd850b5f99164.jpg') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('prems, game creds & nitro boosts') //Text when you hover the Large image
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1167525454308180030/1224036299703455944/green_check.gif?ex=661c07a3&is=660992a3&hm=2c67683c6fa44f018ebe0d42b811f0ec74490b0ddefe31e93588cecb88fb512e&=&width=58&height=59') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1224039487361908907.gif?size=80&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('legit shop') //Text when you hover the Small image
     .addButton('Shop ‹𝟥', ' https://discord.gg/JTnVN2NJhq')
     .addButton('Vouches ‹𝟥', 'https://discord.gg/Yjg2KpWryS');
