@@ -34,8 +34,8 @@ client.on('ready', async () => {
     .setAssetsLargeText('prems, game creds & nitro boosts') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1191505419764510801.gif?size=80&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('legit shop') //Text when you hover the Small image
-    .addButton('Shop ‹𝟥', ' https://discord.gg/JTnVN2NJhq')
-    .addButton('Vouches ‹𝟥', 'https://discord.gg/Yjg2KpWryS');
+    .addButton('Shop ‹𝟥', ' https://discord.gg/Yz3KqWxMvk')
+    .addButton('Vouches ‹𝟥', 'https://discord.gg/Yz3KqWxMvk');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "idle" }); //dnd, online, idle, offline
